@@ -1,0 +1,12 @@
+@inproceedings{Abbas_2021_COPS,
+ author = {Abbas, Ahmed and Swoboda, Paul},
+ booktitle = {Advances in Neural Information Processing Systems},
+ editor = {M. Ranzato and A. Beygelzimer and Y. Dauphin and P.S. Liang and J. Wortman Vaughan},
+ pages = {15635--15649},
+ publisher = {Curran Associates, Inc.},
+ title = {Combinatorial Optimization for Panoptic Segmentation: A Fully Differentiable Approach},
+ url = {https://proceedings.neurips.cc/paper/2021/file/83a368f54768f506b833130584455df4-Paper.pdf},
+ volume = {34},
+ year = {2021}
+}
+
