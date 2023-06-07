@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-I am currently a final-year Ph.D. candidate in Computer Science at [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/) advised by [Dr. Paul Swoboda](http://paulswoboda.net/). I have a broad range of interests. Recently I am interested in developing fast discrete optimization algorithms leveraging GPUs and machine learning and in incorporating inductive bias into deep networks by embedding algorithms as differentiable layers. 
+I am currently a final-year Ph.D. candidate in Computer Science at [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/) advised by [Dr. Paul Swoboda](http://paulswoboda.net/). Recently, I am interested in incorporating inductive bias into deep networks by embedding algorithms as differentiable layers. This can help in two ways. Firstly a deep learning pipeline can be made more expressive for a given task. Secondly it can also help in guiding algorithms in better decision making by learning through data. I am also interested in developing efficient and scalable algorithms for discrete optimization e.g., by leveraging GPUs.
 
 On the applied side I have around 5 years of experience in visual computing where I have successfully lead projects for 3D reconstruction, calibration for surgical robots and geophysical image analysis. I had the pleasure of being involved in devising product roadmaps, knowledge transfer and in recruitment of new employees. I have also published research while working in industry as my own initiatives.  
 
