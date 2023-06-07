@@ -11,7 +11,7 @@ canonical: https://www.mpi-inf.mpg.de/~ahabbas/
 description: My research work revolves around the intersection of two exciting domains of discrete optimization and deep learning with applications in computer vision and machine learning.
 
 # The option is used to enable the MPI Informatics template.
-enable_mpi_logo: true
+enable_mpi_logo: false
 
 # The option is used to show the last update time.
 enable_last_update: false
