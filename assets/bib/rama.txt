@@ -1,0 +1,8 @@
+@InProceedings{Abbas_2022_RAMA,
+    author    = {Abbas, Ahmed and Swoboda, Paul},
+    title     = {RAMA: A Rapid Multicut Algorithm on GPU},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2022},
+    pages     = {8193-8202}
+}

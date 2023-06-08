@@ -1,0 +1,8 @@
+@InProceedings{Abbas_2022_FastDOG,
+    author    = {Abbas, Ahmed and Swoboda, Paul},
+    title     = {FastDOG: Fast Discrete Optimization on GPU},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2022},
+    pages     = {439-449}
+}

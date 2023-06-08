@@ -1,0 +1,7 @@
+@InProceedings{Abbas_2019_BMRF,
+author = {Abbas, Ahmed and Swoboda, Paul},
+title = {Bottleneck Potentials in Markov Random Fields},
+booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+month = {October},
+year = {2019}
+}

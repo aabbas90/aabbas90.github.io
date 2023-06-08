@@ -1,0 +1,6 @@
+@article{abbas2023clusterfug,
+  title={Clustering Fully connected Graphs by Multicut},
+  author={Abbas, Ahmed and Swoboda, Paul},
+  journal={arXiv preprint arXiv:2301.12159},
+  year={2022}
+}
