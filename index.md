@@ -6,7 +6,7 @@ I am currently a final-year Ph.D. candidate in Computer Science at [Max Planck I
 
 On the applied side I have around 5 years of experience in visual computing where I have successfully lead projects for 3D reconstruction, calibration for surgical robots and geophysical image analysis. I had the pleasure of being involved in devising product roadmaps, knowledge transfer and in recruitment of new employees. I have also published research while working in industry as my own initiatives.  
 
-I am looking for positions in my interest areas from fall 2023. 
+I am open for full time industrial positions from early 2024. 
 
 <!-- ## Timeline
 - 2020 - Present: PhD student at [MPII](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning)
