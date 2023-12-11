@@ -7,6 +7,26 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+<img src="./assets/img/doge_train.PNG" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">AAAI</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://arxiv.org/abs/2205.11638">DOGE-Train: Discrete Optimization on GPU with End-to-end Training
+</a></div>
+      <div class="author"><strong>Ahmed Abbas</strong>, Paul Swoboda</div>
+      <div class="periodical"><em><strong>AAAI</strong> Conference on Artificial Intelligence, 2024.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2205.11638.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/aabbas90/DOGE-Train" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="./assets/bib/dogetrain.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> 
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
 <img src="./assets/img/clusterfug_teaser.PNG" class="teaser img-fluid z-depth-1">
             <abbr class="badge">ICML</abbr>
   </div>
@@ -23,26 +43,6 @@
 </div>
 </li>
 
-
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-<img src="./assets/img/doge_train.PNG" class="teaser img-fluid z-depth-1">
-            <abbr class="badge">AAAI</abbr>
-  </div>
-  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://arxiv.org/abs/2205.11638">DOGE-Train: Discrete Optimization on GPU with End-to-end Training
-</a></div>
-      <div class="author"><strong>Ahmed Abbas</strong>, Paul Swoboda</div>
-      <div class="periodical"><em>AAAI Conference on Artificial Intelligence<strong>(AAAI)</strong>, 2024.</em>
-    <div class="links">
-      <a href="https://arxiv.org/pdf/2205.11638.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/aabbas90/DOGE-Train" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="./assets/bib/dogetrain.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> 
-    </div>
-  </div>
-</div>
-</li>
 
 <li>
 <div class="pub-row">
