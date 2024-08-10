@@ -2,14 +2,12 @@
 layout: homepage
 ---
 
-I am currently a final-year Ph.D. candidate in Computer Science at [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/) advised by [Dr. Paul Swoboda](http://paulswoboda.net/). I have a broad range of interests. Recently I am interested in developing fast discrete optimization algorithms leveraging GPUs and machine learning and in incorporating inductive bias into deep networks by embedding algorithms as differentiable layers. 
+I obtained my Ph.D. in Computer Science at [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/) advised by [Dr. Paul Swoboda](http://paulswoboda.net/). I have a broad range of interests revolving around structured prediction problems in visual computing. Recently I am interested in (i) developing fast discrete optimization algorithms leveraging GPUs & machine learning and (ii) incorporating inductive bias into deep networks by embedding algorithms as differentiable layers. 
 
 On the applied side I have around 5 years of experience in visual computing where I have successfully lead projects for 3D reconstruction, calibration for surgical robots and geophysical image analysis. I had the pleasure of being involved in devising product roadmaps, knowledge transfer and in recruitment of new employees. I have also published research while working in industry as my own initiatives.  
 
-I am open for full time industrial positions from early 2024. 
-
 <!-- ## Timeline
-- 2020 - Present: PhD student at [MPII](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning)
+- 2020 - 2024: PhD student at [MPII](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning)
 - 2019 - 2020: Junior Scientist at [Carl Zeiss AG](https://www.zeiss.com/corporate/int/home.html)
 - 2016 - 2018: Master in Visual Computing at [Saarland University](http://www.master-visual-computing.de/)
 - 2013 - 2016: Research Engineer at [LMKR](http://www.lmkr.com/)
