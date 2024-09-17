@@ -1,14 +1,13 @@
 # Basic Information 
 title: Ahmed Abbas
-position: Ph.D. Candidate
-affiliation: Max Planck Institute for Informatics
-affiliation_link: https://www.mpi-inf.mpg.de/
-email: ahmed.abbas (at) mpi-inf.mpg.de
+position: Senior Research Scientist
+affiliation: ImFusion GmbH
+affiliation_link: https://imfusion.com
+email: ahmed.a.mirza1 (at) gmail.com
 
 # Search Engine Optimization (SEO)
 keywords: ahmed abbas, abbas ahmed
-canonical: https://www.mpi-inf.mpg.de/~ahabbas/
-description: My research work revolves around the intersection of two exciting domains of discrete optimization and deep learning with applications in computer vision and machine learning.
+description: My PhD research work revolved around the intersection of two exciting domains of discrete optimization and deep learning with applications in computer vision and machine learning.
 
 # The option is used to enable the MPI Informatics template.
 enable_mpi_logo: false
@@ -18,10 +17,8 @@ enable_last_update: false
 
 # Links
 google_scholar: https://scholar.google.com/citations?user=8NzZ7XgAAAAJ
-# cv_link: ./assets/cv/CV_site.pdf
 github_link: https://github.com/aabbas90/
 linkedin: https://www.linkedin.com/in/ahmed-abbas-65817645/
-twitter: https://twitter.com/ahmed_abbas_90/
 
 # Images 
 avatar: ./assets/img/avatar.jpg
