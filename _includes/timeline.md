@@ -6,7 +6,12 @@
 
   <tbody>
     <tr>
-      <td>2020 - Present</td>
+      <td>2024 - Present</td>
+      <td>&ensp;Senior Research Scientist</td>
+      <td>&ensp;<a href="https://www.imfusion.com/">ImFusion, Germany</a></td>
+    </tr>
+    <tr>
+      <td>2020 - 2024</td>
       <td>&ensp;PhD student</td>
       <td>&ensp;<a href="https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning">MPII, Germany</a></td>
     </tr>
